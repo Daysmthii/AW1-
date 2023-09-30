@@ -1,0 +1,40 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 20px;
+    background-color: #836FFF;
+    padding-top: 10%;
+}
+
+h1 {
+    color: black;
+    text-decoration: underline;
+}
+
+h2 {
+    color: black;
+    margin-top: 20px;
+    text-decoration: underline;
+}
+
+input, button {
+    margin: 5px;
+}
+
+button {
+    background-color: #483D8B;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: black;
+}
+
+p {
+    font-weight: bold;
+    color: #333;
+    margin-top: 10px;
+}
